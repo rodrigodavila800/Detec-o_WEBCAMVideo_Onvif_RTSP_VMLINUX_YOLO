@@ -1,7 +1,7 @@
 # 🎥 Projeto Integrado: Virtualização de Webcam + Detecção com YOLOv8
 
-> **Autor:** Professor Rodrigo D'ávila  
-> **Curso:** Técnico em Informática  
+> **Autor:** Professor Rodrigo D'ávila, Bacharelado em Sistemas de Informação e Pós-graduando em em Inteligência Artificial (I.a) e Machine Learning, Intrutor do SANAI-PA
+> **Curso:** Técnico em Informática 
 > **Descrição:** Este projeto une virtualização de hardware com inteligência artificial para criar um sistema de monitoramento inteligente. A webcam física do host Windows é transformada em uma câmera IP simulada dentro de uma VM Linux, com suporte a RTSP e ONVIF. Os vídeos capturados são processados com YOLOv8 para detecção de objetos.
 
 ---
